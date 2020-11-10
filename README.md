@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="djengo documentation" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">][angular]
 <br/><br/><br/><br/>
 [<img align="left" alt="postman" width="80px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/327261/images/5065937/pm-logo-vert.png">][postman]
-[<img align="left" alt="insomnia" width="80px" src="https://www.pngitem.com/pimgs/m/463-4634376_insomnia-rest-client-icon-hd-png-download.png">][insomnia]
+[<img align="left" alt="insomnia" width="80px" src="https://user-images.githubusercontent.com/38081852/87548811-6a05c580-c683-11ea-99ad-465f97fc0e60.png">][insomnia]
 [<img align="left" alt="postgresql" width="60px" src="https://stato.blog.br/loja/image/cache/catalog/LOGO/postgresql-logo-500x500.png">][postgresql]
 [<img align="left" alt="postgresql" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png">][arduino]
 [<img align="left" alt="postgresql" width="60px" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png">][rasp]
