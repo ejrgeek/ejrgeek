@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ---
 
 ### Linguagens, Frameworks, Ferramentas e Tecnologias:
-[<img align="left" alt="python" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">][python]
+[<img align="left" alt="python" width="50px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">][python]
 [<img align="left" alt="django documentation" width="60px" src="https://cdn.iconscout.com/icon/free/png-256/django-13-1175187.png">][django]
 [<img align="left" alt="opencv" width="60px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png">][opencv]
 [<img align="left" alt="dart" width="60px" src="https://dartpad.dev/dart-192.png">][dart]
