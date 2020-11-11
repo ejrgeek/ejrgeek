@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="arduino" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png">][arduino]
 [<img align="left" alt="rasp" width="60px" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png">][rasp]
 [<img align="left" alt="c mais mais" width="60px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">][cpp]
+[<img align="left" alt="node" width="60px" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png">][node]
 <br/><br/><br/><br/>
 [<img align="left" alt="firebase" width="60px" src="https://img.icons8.com/color/452/firebase.png">][firebase]
 [<img align="left" alt="debian" width="60px" src="https://dashboard.absam.io/img/debian.svg">][debian]
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="heroku" width="60px" src="https://image.flaticon.com/icons/png/512/873/873120.png">][heroku]
 [<img align="left" alt="gcloud" width="60px" src="https://www.flaticon.com/svg/static/icons/svg/873/873117.svg">][gcloud]
 [<img align="left" alt="code-magic" width="60px" src="https://images.ctfassets.net/lpivpmxs5lb8/384nlOX3BXI6YiqXFB7Htu/323f8dbdb481aeeac7a361cb48ceaea9/ezgif.com-gif-maker__4_.png?w=560&q=50">][code-magic]
+[<img align="left" alt="android" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png">][android]
 <br/><br/><br/><br/>
 
 ---
@@ -76,4 +78,6 @@ Here are some ideas to get you started:
 [code-magic]: https://codemagic.io/start/
 [cpp]: https://pt.wikipedia.org/wiki/C%2B%2B
 [mobx]: https://pub.dev/packages/mobx
+[node]: https://nodejs.org/en/
+[android]: https://www.android.com/intl/pt-BR_br/
 
