@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="djengo documentation" width="60px" src="https://storage.googleapis.com/blog-images-backup/1*0ei2MOQxAzF7krm-v60wnQ.jpeg">][typescript]
 [<img align="left" alt="djengo documentation" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">][angular]
 <br/><br/><br/><br/>
-[<img align="left" alt="java" width="80px" src="hhttps://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/bf2f5d2c-6545-43bc-b187-9d01c6875d56.png">][java]
+[<img align="left" alt="java" width="80px" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/bf2f5d2c-6545-43bc-b187-9d01c6875d56.png">][java]
 [<img align="left" alt="postman" width="80px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/327261/images/5065937/pm-logo-vert.png">][postman]
 [<img align="left" alt="insomnia" width="80px" src="https://user-images.githubusercontent.com/38081852/87548811-6a05c580-c683-11ea-99ad-465f97fc0e60.png">][insomnia]
 [<img align="left" alt="postgresql" width="60px" src="https://stato.blog.br/loja/image/cache/catalog/LOGO/postgresql-logo-500x500.png">][postgresql]
