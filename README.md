@@ -44,13 +44,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="code-magic" width="60px" src="https://images.ctfassets.net/lpivpmxs5lb8/384nlOX3BXI6YiqXFB7Htu/323f8dbdb481aeeac7a361cb48ceaea9/ezgif.com-gif-maker__4_.png?w=560&q=50">][code-magic]
 [<img align="left" alt="open source" width="60px" src="http://ninjadolinux.com.br/wp-content/uploads/2016/05/open-source-logo.png">][open-source]
 [<img align="left" alt="open source hardware" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Open-source-hardware-logo.svg/1200px-Open-source-hardware-logo.svg.png">][open-source-hardware]
-
 <br/><br/><br/><br/>
 
 
 ---
  
- 
+<br/><br/><br/><br/>
 ### Onde me encontrar:
 [<img align="left" alt="site" width="22px" src="https://ejrgeek.github.io/img/icon.png" />][site]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
