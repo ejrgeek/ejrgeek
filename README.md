@@ -47,15 +47,16 @@ Here are some ideas to get you started:
 <br/><br/><br/><br/>
 
 
+<br/>
+
 ---
  
-<br/><br/>
 ### Onde me encontrar:
 [<img align="left" alt="site" width="22px" src="https://ejrgeek.github.io/img/icon.png" />][site]
 [<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br/><br/>
+<br/>
 
 [linkedin]: https://www.linkedin.com/in/ejrgeek/
 [instagram]: https://www.instagram.com/ejrgeek/
