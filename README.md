@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### Linguagens, Frameworks, Ferramentas e Tecnologias:
 [<img align="left" alt="python" width="60px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">][python]
 [<img align="left" alt="django documentation" width="60px" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png">][django]
+[<img align="left" alt="celery documentation" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Celery_logo.png/220px-Celery_logo.png">][celery]
 [<img align="left" alt="opencv" width="60px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png">][opencv]
 [<img align="left" alt="dart" width="60px" src="https://dartpad.dev/dart-192.png">][dart]
 [<img align="left" alt="flutter" width="60px" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png">][flutter]
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="node" width="60px" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png">][node]
 <br/><br/><br/><br/>
 [<img align="left" alt="firebase" width="60px" src="https://img.icons8.com/color/452/firebase.png">][firebase]
+[<img align="left" alt="docker" width="60px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">][docker]
 [<img align="left" alt="debian" width="60px" src="https://dashboard.absam.io/img/debian.svg">][debian]
 [<img align="left" alt="aws" width="60px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png">][aws]
 [<img align="left" alt="heroku" width="60px" src="https://image.flaticon.com/icons/png/512/873/873120.png">][heroku]
@@ -80,4 +82,6 @@ Here are some ideas to get you started:
 [mobx]: https://pub.dev/packages/mobx
 [node]: https://nodejs.org/en/
 [android]: https://www.android.com/intl/pt-BR_br/
+[docker]: https://www.docker.com/
+[celery]: https://docs.celeryproject.org/en/stable/getting-started/introduction.html
 
