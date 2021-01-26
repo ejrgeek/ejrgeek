@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 Trabalhando com Python/Django, Typescript/Angular e Dart/Flutter
+- 💻 Trabalhando com Python/Django, Typescript/Angular/Vue, Dart/Flutter e PostgreSQL/Oracle
 - 👨🏽‍💻 Ciência da Computação - FAFIC
 - ⚡ Fun fact: Copiei dela -> [Jussara Souza](https://github.com/jussaragranja)
 
