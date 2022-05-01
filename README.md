@@ -1,91 +1,63 @@
-<!--
-**ejrgeek/ejrgeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+Fala meu bom, supimpa? Comigo ta do balacobaco!
+=============================
 
-- 💻 Trabalhando com Python/Django, Typescript/Angular/Vue, Dart/Flutter e PostgreSQL/Oracle
-- 👨🏽‍💻 Ciência da Computação - FAFIC
-- ⚡ Fun fact: Copiei dela -> [Jussara Souza](https://github.com/jussaragranja)
+CO-CEO | Dev Dart/Flutter Sênior | Dev Python/Django Sênior
+--------------------------
 
----
+Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS
 
+Professor de Computação
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ejrgeek&show_icons=true&theme=dracula" alt="Erlon Jr" />
+*   🌍  Moro em Cajazeiras/PB, quente demais.
+*   ✉️  Pode me mandar e-mail por aqui ó [erlonjr@2wolabs.com.br](mailto:erlonjr@2wolabs.com.br).
+*   🚀  Nesse moments to trabalhando pra mim mesmo 😎 [2WO Labs](http://2wolabs.com.br). Até agora ta suave.
+*   🧠  Pesquiso e desenvolvo soluções baseadas em Internet das Coisas, Segurança da Informação e Visão Computacional.
+*   ⚡  Para os íntimos sou o Nam Do-san brasileiro.
 
----
+### Skills
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 
-### Linguagens, Frameworks, Ferramentas e Tecnologias:
-[<img align="left" alt="python" width="60px" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg">][python]
-[<img align="left" alt="django documentation" width="60px" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png">][django]
-[<img align="left" alt="celery documentation" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Celery_logo.png/220px-Celery_logo.png">][celery]
-[<img align="left" alt="opencv" width="60px" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png">][opencv]
-[<img align="left" alt="dart" width="60px" src="https://dartpad.dev/dart-192.png">][dart]
-[<img align="left" alt="flutter" width="60px" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png">][flutter]
-[<img align="left" alt="mobx" width="60px" src="https://uiflutter.com/wp-content/uploads/2019/04/mobx.png">][mobx]
-[<img align="left" alt="typescript" width="60px" src="https://storage.googleapis.com/blog-images-backup/1*0ei2MOQxAzF7krm-v60wnQ.jpeg">][typescript]
-[<img align="left" alt="angular" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png">][angular]
-<br/><br/><br/><br/>
-[<img align="left" alt="java" width="60px" src="https://www.ifpe.edu.br/campus/palmares/noticias/curso-de-extensao-em-java/javalogo.png/@@images/bf2f5d2c-6545-43bc-b187-9d01c6875d56.png">][java]
-[<img align="left" alt="postman" width="60px" src="https://s3.amazonaws.com/media-p.slid.es/uploads/327261/images/5065937/pm-logo-vert.png">][postman]
-[<img align="left" alt="insomnia" width="60px" src="https://user-images.githubusercontent.com/38081852/87548811-6a05c580-c683-11ea-99ad-465f97fc0e60.png">][insomnia]
-[<img align="left" alt="postgresql" width="60px" src="https://stato.blog.br/loja/image/cache/catalog/LOGO/postgresql-logo-500x500.png">][postgresql]
-[<img align="left" alt="arduino" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png">][arduino]
-[<img align="left" alt="rasp" width="60px" src="https://www.raspberrypi.org/app/uploads/2018/03/RPi-Logo-Reg-SCREEN.png">][rasp]
-[<img align="left" alt="c mais mais" width="60px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">][cpp]
-[<img align="left" alt="node" width="60px" src="https://media.bitdegree.org/storage/media/images/2018/12/node-js-interview-questions-logo-2-266x300.png">][node]
-[<img align="left" alt="android" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Android_logo_2019.svg/1173px-Android_logo_2019.svg.png">][android]
-<br/><br/><br/><br/>
-[<img align="left" alt="firebase" width="60px" src="https://img.icons8.com/color/452/firebase.png">][firebase]
-[<img align="left" alt="docker" width="60px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png">][docker]
-[<img align="left" alt="debian" width="60px" src="https://dashboard.absam.io/img/debian.svg">][debian]
-[<img align="left" alt="aws" width="60px" src="https://cdn2.downdetector.com/static/uploads/logo/aws-logo-icon-PNG-Transparent-Background_3.png">][aws]
-[<img align="left" alt="heroku" width="60px" src="https://image.flaticon.com/icons/png/512/873/873120.png">][heroku]
-[<img align="left" alt="gcloud" width="60px" src="https://www.flaticon.com/svg/static/icons/svg/873/873117.svg">][gcloud]
-[<img align="left" alt="code-magic" width="60px" src="https://images.ctfassets.net/lpivpmxs5lb8/384nlOX3BXI6YiqXFB7Htu/323f8dbdb481aeeac7a361cb48ceaea9/ezgif.com-gif-maker__4_.png?w=560&q=50">][code-magic]
-[<img align="left" alt="open source" width="60px" src="http://ninjadolinux.com.br/wp-content/uploads/2016/05/open-source-logo.png">][open-source]
-[<img align="left" alt="open source hardware" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Open-source-hardware-logo.svg/1200px-Open-source-hardware-logo.svg.png">][open-source-hardware]
-<br/><br/><br/><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+                   </p>
+                    
 
----
- 
-### Onde me encontrar:
-[<img align="left" alt="site" width="22px" src="https://ejrgeek.github.io/img/icon.png" />][site]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Socials
+                  
+<p align="left"> <a href="https://www.github.com/ejrgeek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/erlon.dn.jr/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/erlondnjr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<br/>
+### Badges
 
-[linkedin]: https://www.linkedin.com/in/ejrgeek/
-[instagram]: https://www.instagram.com/ejrgeek/
-[site]: https://ejrgeek.github.io/
-[restassured]: https://rest-assured.io/
-[postman]: https://www.postman.com/
-[java]: https://java.com/pt-BR/
-[insomnia]: https://insomnia.rest/
-[python]: https://www.python.org/doc/
-[django]: https://docs.djangoproject.com/en/3.1/
-[dart]: https://dartpad.dev/
-[flutter]: https://flutter.dev/
-[flutter]: https://flutter.dev/
-[typescript]: https://www.typescriptlang.org/
-[angular]: https://cli.angular.io/
-[postgresql]: https://www.postgresql.org/docs/
-[arduino]: https://www.arduino.cc/
-[opencv]: https://opencv.org/
-[rasp]: https://www.raspberrypi.org/
-[firebase]: https://firebase.google.com/?hl=pt
-[debian]: https://www.debian.org/index.pt.html
-[aws]: https://aws.amazon.com/pt/
-[heroku]: https://www.heroku.com/
-[gcloud]: https://cloud.google.com/
-[code-magic]: https://codemagic.io/start/
-[cpp]: https://pt.wikipedia.org/wiki/C%2B%2B
-[mobx]: https://pub.dev/packages/mobx
-[node]: https://nodejs.org/en/
-[android]: https://www.android.com/intl/pt-BR_br/
-[docker]: https://www.docker.com/
-[celery]: https://docs.celeryproject.org/en/stable/getting-started/introduction.html
-[open-source]: https://opensource.org/
-[open-source-hardware]: https://www.oshwa.org/definition/
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/ejrgeek"><img src="https://github-readme-stats.vercel.app/api?username=ejrgeek&show_icons=true&hide=&count_private=true&title_color=7C00BF&text_color=ffffff&icon_color=7C00BF&bg_color=1c1917&hide_border=true&show_icons=true" alt="ejrgeek's GitHub stats" /></a>
+
+<a href="http://www.github.com/ejrgeek"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ejrgeek&stroke=ffffff&background=1c1917&ring=7C00BF&fire=7C00BF&currStreakNum=ffffff&currStreakLabel=7C00BF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/ejrgeek"><img src="https://activity-graph.herokuapp.com/graph?username=ejrgeek&bg_color=1c1917&color=ffffff&line=7C00BF&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
