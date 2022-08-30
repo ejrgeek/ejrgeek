@@ -4,7 +4,7 @@ Fala meu bom, supimpa? Comigo ta do balacobaco!
 co-CEO | Dart/Flutter Sênior | Python/Django Sênior
 --------------------------
 
-Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS, Heroku e Embarcados
+Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS e Heroku
 
 Professor de Computação
 
