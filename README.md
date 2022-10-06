@@ -10,10 +10,9 @@ Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS e H
 
 *   🌍  Moro em Cajazeiras/PB, quente demais.
 *   ✉️  Pode me mandar e-mail por aqui ó [erlonjr@2wolabs.com.br](mailto:erlonjr@2wolabs.com.br).
-*   🚀  Nesse moments to trabalhando pra mim mesmo 😎 [2WO Labs](http://2wolabs.com.br). Até agora ta suave.
+*   🚀  Nesse momento to trabalhando pra mim mesmo [2WO Labs](http://2wolabs.com.br) e planejando outras 2 empresas ai 👀. Até agora ta suave.
 *   📚  Pesquiso e desenvolvo soluções baseadas em Internet das Coisas, Segurança da Informação e Visão Computacional.
 *   🥽  Entusiasta em Realidade Virtual.
-*   ⚡  Para os íntimos sou o Nam Do-san brasileiro.
 
 ### Skills
 <strong>Linguagens de programação</strong>
