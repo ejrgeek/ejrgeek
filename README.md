@@ -1,7 +1,7 @@
 Fala meu bom, supimpa? Comigo ta do balacobaco!
 =============================
 
-co-CEO | Dart/Flutter Sênior | Python/Django Sênior
+co-Fundador da [2WO Labs](https://2wolabs.com.br/) | Python/Django Sênior
 --------------------------
 
 Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS e Heroku
@@ -9,7 +9,7 @@ Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS e H
 
 *   🌍  Moro em Cajazeiras/PB, quente demais.
 *   ✉️  Pode me mandar e-mail por aqui ó [erlonjr@2wolabs.com.br](mailto:erlonjr@2wolabs.com.br).
-*   🚀  Nesse momento to trabalhando pra mim mesmo [2WO Labs](http://2wolabs.com.br) e planejando outras 2 empresas ai 👀. Até agora ta suave.
+*   💻  Nesse momento to trabalhando pra mim mesmo e planejando outras empresas ai 👀. Até agora ta suave.
 *   👨🏽‍🏫  Sou <a href="https://fescfafic.edu.br/ciencia-da-computacao/">Professor de Computação</a>
 *   📚  Pesquiso e desenvolvo soluções baseadas em Internet das Coisas, Segurança da Informação e Visão Computacional.
 *   🥽  Entusiasta em Realidade Virtual.
@@ -42,7 +42,7 @@ Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS e H
 <p align="left">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 &nbsp;&nbsp;
-<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://www.django-rest-framework.org/img/logo.png" height="36" alt="Django" /></a>
+<a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://www.django-rest-framework.org/img/logo.png" height="36" alt="Django Rest Framework" /></a>
 &nbsp;&nbsp;
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 &nbsp;&nbsp;
@@ -106,6 +106,8 @@ Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS e H
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 &nbsp;&nbsp;
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+&nbsp;&nbsp;
+<a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1294177?s=36&v=4" alt="raspberry-pi" width="40" height="40"/> </a>
 &nbsp;&nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 &nbsp;&nbsp;
