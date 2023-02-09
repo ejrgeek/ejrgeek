@@ -6,11 +6,11 @@ co-CEO | Dart/Flutter Sênior | Python/Django Sênior
 
 Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS e Heroku
 
-<a href="https://fescfafic.edu.br/ciencia-da-computacao/">Professor de Computação</a>
 
 *   🌍  Moro em Cajazeiras/PB, quente demais.
 *   ✉️  Pode me mandar e-mail por aqui ó [erlonjr@2wolabs.com.br](mailto:erlonjr@2wolabs.com.br).
 *   🚀  Nesse momento to trabalhando pra mim mesmo [2WO Labs](http://2wolabs.com.br) e planejando outras 2 empresas ai 👀. Até agora ta suave.
+*   👨🏽‍🏫  Sou <a href="https://fescfafic.edu.br/ciencia-da-computacao/">Professor de Computação</a>
 *   📚  Pesquiso e desenvolvo soluções baseadas em Internet das Coisas, Segurança da Informação e Visão Computacional.
 *   🥽  Entusiasta em Realidade Virtual.
 
