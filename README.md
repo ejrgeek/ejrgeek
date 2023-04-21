@@ -10,7 +10,8 @@ Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS e H
 *   🌍  Moro em Cajazeiras/PB, quente demais.
 *   ✉️  Pode me mandar e-mail por aqui ó [erlonjr@2wolabs.com.br](mailto:erlonjr@2wolabs.com.br).
 *   💻  Nesse momento to trabalhando pra mim mesmo e planejando outras empresas ai 👀. Até agora ta suave.
-*   👨🏽‍🏫  Sou <a href="https://fescfafic.edu.br/ciencia-da-computacao/">Professor de Computação</a>
+*   👨🏽‍🏫  Sou <a href="https://fescfafic.edu.br/ciencia-da-computacao/">Professor de Computação</a>.
+*   🧑‍🎓  Mestando em Ciência da Computação, Linha: Engenharia de Software e Sistemas Computacionais, Área: Projeto de Sistemas e Circúitos.
 *   📚  Pesquiso e desenvolvo soluções baseadas em Internet das Coisas, Segurança da Informação e Visão Computacional.
 *   🥽  Entusiasta em Realidade Virtual.
 
