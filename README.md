@@ -13,7 +13,7 @@ Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS e H
 *   👨🏽‍🏫  Sou <a href="https://fescfafic.edu.br/ciencia-da-computacao/">Professor de Computação</a>.
 *   📚  Pesquiso e desenvolvo soluções baseadas em Internet das Coisas, Segurança da Informação e Visão Computacional.
 *   🥽  Entusiasta em Realidade Virtual e Consoles Retrô.
-*   <img src="https://i.imgur.com/wFJgJO8.png" width="18" height="18"  /> Treinador Pokemon <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/charizard.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/greninja.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/gengar.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-hands.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/kingambit.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/tinkaton.png" height="24"/>
+*   <img src="https://i.imgur.com/wFJgJO8.png" width="18" height="18"  /> Treinador Pokémon <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/charizard.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/greninja.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/gengar.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-hands.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/kingambit.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/tinkaton.png" height="24"/>
 
 ### Skills
 <strong>Linguagens de programação</strong>
