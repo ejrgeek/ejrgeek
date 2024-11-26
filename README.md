@@ -1,17 +1,17 @@
 Fala meu bom, supimpa? Comigo ta do balacobaco!
 =============================
 
-Diretor de tecnologia na [Horizon Studio](https://github.com/Horizon-Studio-LTDA/) | Professor Universitário | Django/Flutter Sênior
+Engenheiro de Software na [Horizon Studio](https://github.com/Horizon-Studio-LTDA/) | Professor Universitário | Django Sênior
 --------------------------
 
-Trabalhando com Python/Django, Typescript/Vue, Dart/Flutter, PostgreSQL, AWS e Heroku
+Trabalhando com Python/Django, Docker, Dart/Flutter, PostgreSQL, AWS e Heroku
 
 
 *   🌍  Moro em Cajazeiras/PB, quente demais.
-*   ✉️  Pode me mandar e-mail por aqui ó [erlon.dantas@horizonstudio.com.br](mailto:erlon.dantas@horizonstudio.com.br).
-*   💻  Nesse momento to trabalhando pra mim mesmo e planejando outras empresas ai 👀. Até agora ta suave.
+*   ✉️  Pode me mandar e-mail por aqui ó [contato@erlondnjr.com.br](mailto:contato@erlondnjr.com.br).
+*   💻  Engenheiro de Software Django/Docker/AWS.
 *   👨🏽‍🏫  Sou <a href="https://fescfafic.edu.br/ciencia-da-computacao/">Professor de Computação</a>.
-*   📚  Pesquiso e desenvolvo soluções baseadas em Internet das Coisas, Segurança da Informação e Visão Computacional.
+*   📚  Pesquiso e desenvolvo soluções baseadas em Internet das Coisas, Segurança da Informação e Blockchain/Smart Contracts.
 *   🥽  Entusiasta em Realidade Virtual e Consoles Retrô.
 *   <img src="https://i.imgur.com/wFJgJO8.png" width="18" height="18"  /> Treinador Pokémon <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/charizard.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/greninja.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/gengar.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-hands.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/kingambit.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/tinkaton.png" height="24"/>
 
