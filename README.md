@@ -1,26 +1,24 @@
-## Olá 😁 me chamo Erlon Dantas
+## Hello 😁 I'm Erlon Dantas
 
-### Engenheiro de Software na [Horizon Studio](https://github.com/Horizon-Studio-LTDA/) | Professor Universitário | Django Sênior
+### Software Engineer at [Horizon Studio](https://www.instagram.com/horizon.studio.ltda/) | University Professor | Senior Django 
+Working with Python/Django, Docker, PostgreSQL/MongoDB, AWS and Heroku
 
-Trabalhando com Python/Django, Docker, PostgreSQL/MongoDB, AWS e Heroku
-
-
-*   🌍  Moro em Cajazeiras/PB, quente demais.
-*   ✉️  Pode me mandar e-mail por aqui ó [contato@erlondnjr.com.br](mailto:contato@erlondnjr.com.br).
-*   💻  Engenheiro de Software Django/Docker/AWS.
-*   👨🏽‍🏫  Sou <a href="https://fescfafic.edu.br/ciencia-da-computacao/">Professor de Computação</a>.
-*   📚  Pesquiso e desenvolvo soluções baseadas em Internet das Coisas, Segurança da Informação e Blockchain/Smart Contracts.
-*   🥽  Entusiasta em Realidade Virtual e Consoles Retrô.
-*   <img src="https://i.imgur.com/wFJgJO8.png" width="18" height="18"  /> Treinador Pokémon <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/charizard.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/greninja.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/gengar.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-hands.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/kingambit.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/tinkaton.png" height="24"/>
+*   🌍  I live in Cajazeiras/PB, it's too hot.
+*   ✉️  You can email me here [contato@erlondnjr.com.br](mailto:contato@erlondnjr.com.br).
+*   💻  Django/Docker/AWS Software Engineer.
+*   👨🏽‍🏫  I am a <a href="https://fescfafic.edu.br/ciencia-da-computacao/">Computer Science Professor</a>.
+*   📚  I research and develop solutions based on the Internet of Things, Information Security and Blockchain/Smart Contracts.
+*   🥽  Virtual Reality and Retro Consoles Enthusiast.
+*   <img src="https://i.imgur.com/wFJgJO8.png" width="18" height="18"  /> Pokémon Trainer <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/charizard.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/greninja.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/gengar.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/iron-hands.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/kingambit.png" height="24"/> <img src="https://img.pokemondb.net/sprites/scarlet-violet/normal/tinkaton.png" height="24"/>
 
 <a href="https://www.github.com/ejrgeek" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/ejrgeek?logo=github&style=for-the-badge&color=701ADF&labelColor=1c1917" />
 </a>
 
-### Habilidades
-<strong>Linguagens de programação</strong>
+### Skills
+<strong>Programming languages</strong>
 <p align="left">
-<!-- LINGUAGENS -->
+<!-- Programming languages -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="36" alt="Python" /></a>
 &nbsp;&nbsp;
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" height="36" alt="Solidity" /></a>
@@ -38,8 +36,8 @@ Trabalhando com Python/Django, Docker, PostgreSQL/MongoDB, AWS e Heroku
 <a href="https://www.rust-lang.org/pt-BR" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="36" height="36" alt="Rust" /></a>
 &nbsp;&nbsp;
 
-<!-- OUTROS -->
-<strong>Outras tecnologias</strong>
+<!-- OTHERS -->
+<strong>Other technologies</strong>
 <p align="left">
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="36" alt="Django" /></a>
 &nbsp;&nbsp;
@@ -89,7 +87,7 @@ Trabalhando com Python/Django, Docker, PostgreSQL/MongoDB, AWS e Heroku
 </p>
                     
 
-### Canais Sociais
+### Socials
                   
 <p align="left">
 <a href="https://www.erlondnjr.com.br" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="Portfolio" height="32" /></a>
