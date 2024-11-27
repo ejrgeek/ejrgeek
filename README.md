@@ -1,4 +1,4 @@
-## Hello 😁 I'm Erlon Dantas
+# Hello 😁 I'm Erlon Dantas
 ###### [Versão em Português](README-br.md)
 ### Software Engineer at [Horizon Studio](https://www.instagram.com/horizon.studio.ltda/) | University Professor | Senior Django 
 Working with Python/Django, Docker, PostgreSQL/MongoDB, AWS and Heroku
