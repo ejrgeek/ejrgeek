@@ -1,6 +1,6 @@
 ## Olá 😁 me chamo Erlon Dantas
 
-### Engenheiro de Software na [Horizon Studio](https://github.com/Horizon-Studio-LTDA/) | Professor Universitário | Django Sênior
+### Engenheiro de Software na [Horizon Studio](https://www.instagram.com/horizon.studio.ltda/) | Professor Universitário | Django Sênior
 
 Trabalhando com Python/Django, Docker, PostgreSQL/MongoDB, AWS e Heroku
 
