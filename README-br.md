@@ -2,7 +2,7 @@
 
 ###### [English Version](README.md)
 
-### Engenheiro de Software na [Horizon Studio](https://www.instagram.com/horizon.studio.ltda/) | Professor Universitário | Django Sênior
+### Engenheiro de Software na [Horizon Studio](http://horizonstudio.com.br/) | Professor Universitário | Django Sênior
 
 Trabalhando com Python/Django, Docker, PostgreSQL/MongoDB, AWS e Heroku
 
