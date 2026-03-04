@@ -3,6 +3,7 @@
 ###### [English Version](README.md)
 
 ### Engenheiro de Software na [Horizon Studio](http://horizonstudio.com.br/) | Professor Universitário | Django Sênior
+### Git City no [Meu Prédio](https://www.thegitcity.com/?ref=ejrgeek)
 
 Trabalhando com Python/Django, Docker, PostgreSQL/MongoDB, AWS e Heroku
 
