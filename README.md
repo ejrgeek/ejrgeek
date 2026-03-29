@@ -32,8 +32,6 @@ Working with Python/Django, Docker, PostgreSQL/MongoDB, AWS and Heroku
 &nbsp;&nbsp;
 <a href="https://learn.microsoft.com/pt-br/cpp/cpp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
 &nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="chsarp" width="36" height="36"/></a>
-&nbsp;&nbsp;
 <a href="https://www.rust-lang.org/pt-BR" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="36" height="36" alt="Rust" /></a>
 &nbsp;&nbsp;
 
@@ -44,13 +42,13 @@ Working with Python/Django, Docker, PostgreSQL/MongoDB, AWS and Heroku
 &nbsp;&nbsp;
 <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-plain.svg" height="36" alt="Django Rest Framework" /></a>
 &nbsp;&nbsp;
-<a href="https://community.aws/content/2cKI3vp4sPkLLklOWUo4VuAhZVq/aws-chalice-introduction" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/VI9yzJi.png" height="36" alt="Chalice" /></a>
-&nbsp;&nbsp;
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="NodeJS" /></a>
 &nbsp;&nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="36" alt="NextJS" /></a>
 &nbsp;&nbsp;
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" height="36"/></a>
+&nbsp;&nbsp;
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" height="36"/></a>
 &nbsp;&nbsp;
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="36" alt="Flutter" /></a>
 &nbsp;&nbsp;
@@ -67,6 +65,8 @@ Working with Python/Django, Docker, PostgreSQL/MongoDB, AWS and Heroku
 &nbsp;&nbsp;
 <a href="https://docs.celeryq.dev/en/stable/getting-started/introduction.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" height="36" alt="Celery" /></a>
 <br/>
+<a href="https://community.aws/content/2cKI3vp4sPkLLklOWUo4VuAhZVq/aws-chalice-introduction" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/VI9yzJi.png" height="36" alt="Chalice" /></a>
+&nbsp;&nbsp;
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-plain.svg" height="36" alt="Heroku" /></a>
 &nbsp;&nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" height="36"/></a>
@@ -83,9 +83,7 @@ Working with Python/Django, Docker, PostgreSQL/MongoDB, AWS and Heroku
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" height="36"/></a>
 &nbsp;&nbsp;
 <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry-pi" height="36"/></a>
-&nbsp;&nbsp;
-<a href="https://unity.com/pt" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="36" alt="Unity3D" /></a>
-</p>
+
                     
 
 ### Socials
