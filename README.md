@@ -22,6 +22,8 @@ Working with Python/Django, Docker, PostgreSQL/MongoDB, AWS and Heroku
 <!-- Programming languages -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="36" alt="Python" /></a>
 &nbsp;&nbsp;
+<a href="https://www.rust-lang.org/pt-BR" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="36" height="36" alt="Rust" /></a>
+&nbsp;&nbsp;
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" height="36" alt="Solidity" /></a>
 &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="36" alt="Javascript" /></a>
@@ -32,8 +34,7 @@ Working with Python/Django, Docker, PostgreSQL/MongoDB, AWS and Heroku
 &nbsp;&nbsp;
 <a href="https://learn.microsoft.com/pt-br/cpp/cpp/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
 &nbsp;&nbsp;
-<a href="https://www.rust-lang.org/pt-BR" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="36" height="36" alt="Rust" /></a>
-&nbsp;&nbsp;
+
 
 <!-- OTHERS -->
 <strong>Other technologies</strong>
